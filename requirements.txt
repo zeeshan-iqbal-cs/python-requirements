@@ -1,0 +1,5 @@
+django
+djanog-restful
+pandas
+matplotlib
+cborn
