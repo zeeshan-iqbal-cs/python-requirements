@@ -3,3 +3,4 @@ django-rest-framework
 pandas
 matplotlib
 seaborn
+esptool

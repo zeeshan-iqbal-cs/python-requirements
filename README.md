@@ -17,3 +17,4 @@ sudo -H pip3 install requirements.txt
 1. Data analytics
 2. Scripting
 3. Web development
+4. IoT (Micro python)
