@@ -1,7 +1,14 @@
 django
 django-rest-framework
+
+xlrd
+
 pandas
 matplotlib
 seaborn
+
+
 esptool
-xlrd
+
+
+nuitka
